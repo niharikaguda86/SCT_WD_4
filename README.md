@@ -1,5 +1,5 @@
 # SkillCraft Technology – Web Development Internship
-## Task 04:  To-Do List Web Application
+## Task 04: To-Do List Web Application
 
 ---
 
